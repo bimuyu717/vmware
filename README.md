@@ -1,6 +1,6 @@
 26H1
 
-1.windows 
+1.windows /n
 https://downloads2.broadcom.com/?file=VMware-Workstation-Full-26H1-25388281.exe&oid=47250949&id=LKeq4jhiUkmsEN6HBP8n1Tpu-1kcDSeKQhOGlksLl9U2aHyxCLYDcoPATxKYVeo=&verify=1782635590-aA3rIvVwFtEffREVjJ1aj64S3kJPebLywcpMGQHK9S0%3D
 
 2 linux
